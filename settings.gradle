@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "emirimee_Ex4_5"
